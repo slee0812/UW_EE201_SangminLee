@@ -7,6 +7,6 @@ PCB DESIGN
 
 -----
 
-![image info] (./custom pcb.png)
+![custom pcb] (./image.png)
 
-![image info] (./cost on oshpark.png)
+![cost on oshpark] (./image.png)
